@@ -1,0 +1,17 @@
+html{
+    font-size: 22px;
+}
+body{
+    background-color: wheat;
+    color: black;
+}
+a{
+    color:blue;
+}
+a:visited{
+    color:red;
+
+}
+a:hover,a:active{
+    color: green;
+}
